@@ -1,2 +1,2 @@
 # CSULB-projects
-programming projects involving various languages: Java, C/C++/C#, Haskell, Python
+programming projects involving various languages: Java, C/C++/C#, Haskell, Python, etc.
