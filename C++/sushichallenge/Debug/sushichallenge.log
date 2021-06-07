@@ -1,0 +1,6 @@
+﻿  sushichallenge.cpp
+c:\users\boss\source\repos\sushichallenge\sushichallenge\sushichallenge.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\boss\source\repos\sushichallenge\sushichallenge\sushichallenge.cpp(48): warning C4129: '%': unrecognized character escape sequence
+c:\users\boss\source\repos\sushichallenge\sushichallenge\sushichallenge.cpp(49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\boss\source\repos\sushichallenge\sushichallenge\sushichallenge.cpp(54): warning C4129: '%': unrecognized character escape sequence
+  sushichallenge.vcxproj -> C:\Users\Boss\source\repos\sushichallenge\Debug\sushichallenge.exe

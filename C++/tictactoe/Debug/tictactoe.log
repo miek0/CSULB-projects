@@ -1,0 +1,4 @@
+﻿  tictactoe.cpp
+c:\users\boss\source\repos\tictactoe\tictactoe\tictactoe.cpp(30): warning C4551: function call missing argument list
+c:\users\boss\source\repos\tictactoe\tictactoe\tictactoe.cpp(78): warning C4715: 'cellState': not all control paths return a value
+  tictactoe.vcxproj -> C:\Users\Boss\source\repos\tictactoe\Debug\tictactoe.exe
